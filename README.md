@@ -37,7 +37,7 @@ AWS Restart is a full-time, classroom-based training program developed by Amazon
 - Navigated the Linux CLI.
 - Managed files and directories.
 
----
+
 
 ## 🌐 Connect
 
