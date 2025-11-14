@@ -36,7 +36,11 @@ AWS Restart is a full-time, classroom-based training program developed by Amazon
 ### Week 3: Linux Basics
 - Navigated the Linux CLI.
 - Managed files and directories.
-
+  
+ ### Week 4 :Databases & storage services 🗄️
+    • Topics: RDS (MySQL/Postgres) 🐬🦉, DynamoDB basics 🚀, backups ♻️, snapshots 📸, connection best practices 🛡️. 
+    • Labs: Provision RDS instance 🛠️, connect from EC2 🔗, create a basic DynamoDB table and run CRUD operations 📝. 
+    • Deliverables: Working RDS-backed demo app 💻 and a DynamoDB table with example code 🧩
 
 
 ## 🌐 Connect
